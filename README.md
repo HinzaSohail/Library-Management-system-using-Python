@@ -13,7 +13,7 @@ This is a simple library management system that an admin can operate to
  -> new books can be added to the database by directly editing the CSV file.
  
  ## Instructions to run the program:
- Put both the main_lms.py and Book_list.csv file in a single folder and run the python file using command "python main_lms.py".
+ Put both the main_lms.py and Book_list.csv file in a single folder and run the python file using command "python main_lms.py"
  
  
  
